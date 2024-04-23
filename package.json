@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "Buffer": "^0.0.0",
+    "cdbreact": "^1.5.19",
+    "react-toastify": "^10.0.5",
+    "styled-components": "^6.1.8"
+  }
+}
